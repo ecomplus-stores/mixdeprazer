@@ -1,5 +1,5 @@
 {
-  "css": ".top-bar__countdown {\nmax-height: 100px; \n}",
+  "css": ".top-bar__countdown {\nfont-size: 15px; \n}",
   "html_head": "",
   "html_body": ""
 }
