@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".top-bar__countdown {\nmax-height: 300px; \n}",
   "html_head": "",
   "html_body": ""
 }
