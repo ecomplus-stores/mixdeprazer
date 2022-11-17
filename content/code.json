@@ -1,5 +1,5 @@
 {
-  "css": "@media(max-width: 767px) {\n  .top-bar__countdown {\n    font-size: 15px;\n    white-space: normal !important;\n  }\n}",
+  "css": ".top-bar__countdown {\n  font-size: 15px;\n  white-space: normal !important;\n  }\n}",
   "html_head": "",
   "html_body": ""
 }
