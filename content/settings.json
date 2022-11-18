@@ -1,5 +1,5 @@
 {
-  "domain": "mixdeprazer.netlify.app",
+  "domain": "mixdeprazer.com.br",
   "currency_symbol": "R$",
   "primary_color": "#ff224b",
   "theme": {
@@ -9,8 +9,8 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/mixdeprazer",
   "logo": "/img/uploads/logo.png",
-  "name": "mixdeprazer",
-  "short_name": "mixdeprazer",
+  "name": "Mix de Prazer",
+  "short_name": "Mix de Prazer",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#79b944",
   "icon": "/img/icon.png",
   "store_id": 51333,
-  "description": "mixdeprazer",
+  "description": "Sexo não é só sexo, é a união de dois corpos. Aqui na Mix de Prazer você encontra diversos cosméticos e acessórios que vão tornar esse momento ainda mais especial!",
   "large_icon": "/img/large-icon.png"
 }
